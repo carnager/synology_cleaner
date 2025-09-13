@@ -19,3 +19,10 @@ This script gets a full file list of a directory on your SSH server, filters for
 5. Creating a batch of directories to delete
 6. Delete the batch via rm over ssh
 7. Remove the batch from the list
+
+## Dependencies
+- bash
+- ssh
+- rsync
+- grep
+- awk
